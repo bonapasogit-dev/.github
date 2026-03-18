@@ -1,20 +1,22 @@
-# Horas! Selamat Datang di bonapasogit-dev 🏛️💻
+# Horas! Welcome to bonapasogit-dev 🏛️💻
 
-Kami adalah organisasi open-source yang mendedikasikan diri untuk membangun tools dan library berkualitas, dengan memegang teguh filosofi **Dalihan Na Tolu**.
+We are an open-source organization dedicated to building high-quality tools and libraries, rooted deeply in the **Dalihan Na Tolu** philosophy.
 
-### 🛠️ Tiga Pilar Kami (Our Pillars)
+### 🛠️ Our Three Pillars
 
 1. **Somba Marhula-hula (Maintainer/Contributor Priority)**
-   Kami sangat menghormati setiap kontribusi. Masukan dari komunitas adalah "berkat" yang membangun proyek kami menjadi lebih baik.
+We hold every contribution in the highest regard. Community feedback is the "blessing" that empowers our projects to grow and improve.
+
 2. **Elek Marboru (User Experience)**
-   Kami berusaha melayani pengguna (user) dengan dokumentasi yang ramah, bantuan yang solutif, dan library yang mudah digunakan.
+We are committed to serving our users with approachable documentation, solution-oriented support, and intuitive libraries.
+
 3. **Manat Mardongan Tubu (Internal Quality & Stability)**
-   Kami sangat berhati-hati dalam menjaga kualitas kode. Setiap *pull request* ditinjau dengan cermat untuk menjaga keutuhan sistem.
+We practice great care in maintaining code quality. Every pull request is reviewed meticulously to ensure the integrity and stability of the system.
 
 ---
 
-### 🌲 Visi Bonapasogit
-Membuktikan bahwa inovasi teknologi kelas dunia bisa lahir dari pemahaman akar budaya yang dalam. Dari **Bonapasogit** (Kampung Halaman) untuk kemajuan teknologi global.
+### 🌲 The Bonapasogit Vision
+To prove that world-class technological innovation can blossom from deep cultural roots. From **Bonapasogit** (The Homeland) to the forefront of global technology.
 
 ---
-📫 **Hubungi Kami:** Mari berkolaborasi! Buka issue atau kirimkan Pull Request.
+📫 **Get in Touch**: Let’s collaborate! Feel free to open an issue or submit a Pull Request.
